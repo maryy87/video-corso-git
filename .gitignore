@@ -1,1 +1,6 @@
+#file da ignorare
+
+
 .idea/
+idee/*
+!idee/istruzioni.md
